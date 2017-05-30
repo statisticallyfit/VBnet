@@ -1,0 +1,10 @@
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\learnBDD\SpecFlowAndEF\DataLayer\bin\Debug\DataLayer.dll.config
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\learnBDD\SpecFlowAndEF\DataLayer\bin\Debug\DataLayer.dll
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\learnBDD\SpecFlowAndEF\DataLayer\bin\Debug\DataLayer.pdb
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\learnBDD\SpecFlowAndEF\DataLayer\bin\Debug\DomainClasses.dll
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\learnBDD\SpecFlowAndEF\DataLayer\bin\Debug\EntityFramework.dll
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\learnBDD\SpecFlowAndEF\DataLayer\bin\Debug\DomainClasses.pdb
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\learnBDD\SpecFlowAndEF\DataLayer\bin\Debug\EntityFramework.xml
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\learnBDD\SpecFlowAndEF\DataLayer\obj\Debug\DataLayer.vbprojResolveAssemblyReference.cache
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\learnBDD\SpecFlowAndEF\DataLayer\obj\Debug\DataLayer.dll
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\learnBDD\SpecFlowAndEF\DataLayer\obj\Debug\DataLayer.pdb

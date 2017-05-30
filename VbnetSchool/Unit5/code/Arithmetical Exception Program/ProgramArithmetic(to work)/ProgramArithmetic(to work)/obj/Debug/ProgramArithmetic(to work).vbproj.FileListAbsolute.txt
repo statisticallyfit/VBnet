@@ -1,0 +1,18 @@
+C:\Users\user1928\AppData\Local\Temporary Projects\ProgramArithmetic(to work)\bin\Debug\ProgramArithmetic(to work).exe.config
+C:\Users\user1928\AppData\Local\Temporary Projects\ProgramArithmetic(to work)\bin\Debug\ProgramArithmetic(to work).exe
+C:\Users\user1928\AppData\Local\Temporary Projects\ProgramArithmetic(to work)\bin\Debug\ProgramArithmetic(to work).pdb
+C:\Users\user1928\AppData\Local\Temporary Projects\ProgramArithmetic(to work)\bin\Debug\ProgramArithmetic(to work).xml
+C:\Users\user1928\AppData\Local\Temporary Projects\ProgramArithmetic(to work)\obj\Debug\ProgramArithmetic_to_work_.Resources.resources
+C:\Users\user1928\AppData\Local\Temporary Projects\ProgramArithmetic(to work)\obj\Debug\ProgramArithmetic(to work).vbproj.GenerateResource.Cache
+C:\Users\user1928\AppData\Local\Temporary Projects\ProgramArithmetic(to work)\obj\Debug\ProgramArithmetic(to work).exe
+C:\Users\user1928\AppData\Local\Temporary Projects\ProgramArithmetic(to work)\obj\Debug\ProgramArithmetic(to work).xml
+C:\Users\user1928\AppData\Local\Temporary Projects\ProgramArithmetic(to work)\obj\Debug\ProgramArithmetic(to work).pdb
+C:\D\4. VB.NET\K12Code\Unit5\Arithmetical Exception Program\ProgramArithmetic(to work)\ProgramArithmetic(to work)\bin\Debug\ProgramArithmetic(to work).exe.config
+C:\D\4. VB.NET\K12Code\Unit5\Arithmetical Exception Program\ProgramArithmetic(to work)\ProgramArithmetic(to work)\obj\Debug\ProgramArithmetic(to work).exe
+C:\D\4. VB.NET\K12Code\Unit5\Arithmetical Exception Program\ProgramArithmetic(to work)\ProgramArithmetic(to work)\obj\Debug\ProgramArithmetic(to work).xml
+C:\D\4. VB.NET\K12Code\Unit5\Arithmetical Exception Program\ProgramArithmetic(to work)\ProgramArithmetic(to work)\obj\Debug\ProgramArithmetic(to work).pdb
+C:\D\4. VB.NET\K12Code\Unit5\Arithmetical Exception Program\ProgramArithmetic(to work)\ProgramArithmetic(to work)\bin\Debug\ProgramArithmetic(to work).exe
+C:\D\4. VB.NET\K12Code\Unit5\Arithmetical Exception Program\ProgramArithmetic(to work)\ProgramArithmetic(to work)\bin\Debug\ProgramArithmetic(to work).pdb
+C:\D\4. VB.NET\K12Code\Unit5\Arithmetical Exception Program\ProgramArithmetic(to work)\ProgramArithmetic(to work)\bin\Debug\ProgramArithmetic(to work).xml
+C:\D\4. VB.NET\K12Code\Unit5\Arithmetical Exception Program\ProgramArithmetic(to work)\ProgramArithmetic(to work)\obj\Debug\ProgramArithmetic_to_work_.Resources.resources
+C:\D\4. VB.NET\K12Code\Unit5\Arithmetical Exception Program\ProgramArithmetic(to work)\ProgramArithmetic(to work)\obj\Debug\ProgramArithmetic(to work).vbproj.GenerateResource.Cache

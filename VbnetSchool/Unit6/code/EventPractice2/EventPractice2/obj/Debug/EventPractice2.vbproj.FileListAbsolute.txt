@@ -1,0 +1,18 @@
+C:\Users\user1928\AppData\Local\Temporary Projects\EventPractice2\bin\Debug\EventPractice2.exe.config
+C:\Users\user1928\AppData\Local\Temporary Projects\EventPractice2\bin\Debug\EventPractice2.exe
+C:\Users\user1928\AppData\Local\Temporary Projects\EventPractice2\bin\Debug\EventPractice2.pdb
+C:\Users\user1928\AppData\Local\Temporary Projects\EventPractice2\bin\Debug\EventPractice2.xml
+C:\Users\user1928\AppData\Local\Temporary Projects\EventPractice2\obj\Debug\EventPractice2.Resources.resources
+C:\Users\user1928\AppData\Local\Temporary Projects\EventPractice2\obj\Debug\EventPractice2.vbproj.GenerateResource.Cache
+C:\Users\user1928\AppData\Local\Temporary Projects\EventPractice2\obj\Debug\EventPractice2.exe
+C:\Users\user1928\AppData\Local\Temporary Projects\EventPractice2\obj\Debug\EventPractice2.xml
+C:\Users\user1928\AppData\Local\Temporary Projects\EventPractice2\obj\Debug\EventPractice2.pdb
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\EventPractice2\EventPractice2\bin\Debug\EventPractice2.exe.config
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\EventPractice2\EventPractice2\obj\Debug\EventPractice2.exe
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\EventPractice2\EventPractice2\obj\Debug\EventPractice2.xml
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\EventPractice2\EventPractice2\obj\Debug\EventPractice2.pdb
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\EventPractice2\EventPractice2\bin\Debug\EventPractice2.exe
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\EventPractice2\EventPractice2\bin\Debug\EventPractice2.pdb
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\EventPractice2\EventPractice2\bin\Debug\EventPractice2.xml
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\EventPractice2\EventPractice2\obj\Debug\EventPractice2.Resources.resources
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\EventPractice2\EventPractice2\obj\Debug\EventPractice2.vbproj.GenerateResource.Cache

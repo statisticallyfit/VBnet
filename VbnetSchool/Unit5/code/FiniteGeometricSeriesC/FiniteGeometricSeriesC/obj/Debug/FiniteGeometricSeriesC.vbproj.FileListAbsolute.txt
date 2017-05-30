@@ -1,0 +1,9 @@
+C:\D\4. VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit5\code\FiniteGeometricSeriesC\FiniteGeometricSeriesC\bin\Debug\FiniteGeometricSeriesC.exe.config
+C:\D\4. VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit5\code\FiniteGeometricSeriesC\FiniteGeometricSeriesC\bin\Debug\FiniteGeometricSeriesC.exe
+C:\D\4. VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit5\code\FiniteGeometricSeriesC\FiniteGeometricSeriesC\bin\Debug\FiniteGeometricSeriesC.pdb
+C:\D\4. VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit5\code\FiniteGeometricSeriesC\FiniteGeometricSeriesC\bin\Debug\FiniteGeometricSeriesC.xml
+C:\D\4. VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit5\code\FiniteGeometricSeriesC\FiniteGeometricSeriesC\obj\Debug\FiniteGeometricSeriesC.Resources.resources
+C:\D\4. VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit5\code\FiniteGeometricSeriesC\FiniteGeometricSeriesC\obj\Debug\FiniteGeometricSeriesC.vbproj.GenerateResource.Cache
+C:\D\4. VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit5\code\FiniteGeometricSeriesC\FiniteGeometricSeriesC\obj\Debug\FiniteGeometricSeriesC.exe
+C:\D\4. VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit5\code\FiniteGeometricSeriesC\FiniteGeometricSeriesC\obj\Debug\FiniteGeometricSeriesC.xml
+C:\D\4. VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit5\code\FiniteGeometricSeriesC\FiniteGeometricSeriesC\obj\Debug\FiniteGeometricSeriesC.pdb

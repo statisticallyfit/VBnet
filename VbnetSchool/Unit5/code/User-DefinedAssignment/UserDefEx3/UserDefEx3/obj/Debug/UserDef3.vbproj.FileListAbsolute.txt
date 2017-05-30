@@ -1,0 +1,9 @@
+C:\Users\user1928\AppData\Local\Temporary Projects\UserDef3\obj\Debug\UserDef3.Resources.resources
+C:\Users\user1928\AppData\Local\Temporary Projects\UserDef3\obj\Debug\UserDef3.vbproj.GenerateResource.Cache
+C:\Users\user1928\AppData\Local\Temporary Projects\UserDef3\bin\Debug\UserDef3.pdb
+C:\Users\user1928\AppData\Local\Temporary Projects\UserDef3\bin\Debug\UserDef3.xml
+C:\Users\user1928\AppData\Local\Temporary Projects\UserDef3\obj\Debug\UserDef3.xml
+C:\Users\user1928\AppData\Local\Temporary Projects\UserDef3\obj\Debug\UserDef3.pdb
+C:\Users\user1928\AppData\Local\Temporary Projects\UserDef3\bin\Debug\UserDef3.exe.config
+C:\Users\user1928\AppData\Local\Temporary Projects\UserDef3\bin\Debug\UserDef3.exe
+C:\Users\user1928\AppData\Local\Temporary Projects\UserDef3\obj\Debug\UserDef3.exe

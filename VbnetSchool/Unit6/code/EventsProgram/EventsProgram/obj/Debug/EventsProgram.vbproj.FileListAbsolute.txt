@@ -1,0 +1,18 @@
+C:\Users\user1928\AppData\Local\Temporary Projects\EventsProgram\bin\Debug\EventsProgram.exe.config
+C:\Users\user1928\AppData\Local\Temporary Projects\EventsProgram\bin\Debug\EventsProgram.exe
+C:\Users\user1928\AppData\Local\Temporary Projects\EventsProgram\bin\Debug\EventsProgram.pdb
+C:\Users\user1928\AppData\Local\Temporary Projects\EventsProgram\bin\Debug\EventsProgram.xml
+C:\Users\user1928\AppData\Local\Temporary Projects\EventsProgram\obj\Debug\EventsProgram.Resources.resources
+C:\Users\user1928\AppData\Local\Temporary Projects\EventsProgram\obj\Debug\EventsProgram.vbproj.GenerateResource.Cache
+C:\Users\user1928\AppData\Local\Temporary Projects\EventsProgram\obj\Debug\EventsProgram.exe
+C:\Users\user1928\AppData\Local\Temporary Projects\EventsProgram\obj\Debug\EventsProgram.xml
+C:\Users\user1928\AppData\Local\Temporary Projects\EventsProgram\obj\Debug\EventsProgram.pdb
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\EventsProgram\EventsProgram\bin\Debug\EventsProgram.exe.config
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\EventsProgram\EventsProgram\obj\Debug\EventsProgram.exe
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\EventsProgram\EventsProgram\obj\Debug\EventsProgram.xml
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\EventsProgram\EventsProgram\obj\Debug\EventsProgram.pdb
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\EventsProgram\EventsProgram\bin\Debug\EventsProgram.exe
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\EventsProgram\EventsProgram\bin\Debug\EventsProgram.pdb
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\EventsProgram\EventsProgram\bin\Debug\EventsProgram.xml
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\EventsProgram\EventsProgram\obj\Debug\EventsProgram.Resources.resources
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\EventsProgram\EventsProgram\obj\Debug\EventsProgram.vbproj.GenerateResource.Cache

@@ -1,0 +1,17 @@
+C:\Users\user1928\AppData\Local\Temporary Projects\DelegateExample\bin\Debug\DelegateExample.exe.config
+C:\Users\user1928\AppData\Local\Temporary Projects\DelegateExample\bin\Debug\DelegateExample.exe
+C:\Users\user1928\AppData\Local\Temporary Projects\DelegateExample\bin\Debug\DelegateExample.pdb
+C:\Users\user1928\AppData\Local\Temporary Projects\DelegateExample\bin\Debug\DelegateExample.xml
+C:\Users\user1928\AppData\Local\Temporary Projects\DelegateExample\obj\Debug\DelegateExample.Resources.resources
+C:\Users\user1928\AppData\Local\Temporary Projects\DelegateExample\obj\Debug\DelegateExample.vbproj.GenerateResource.Cache
+C:\Users\user1928\AppData\Local\Temporary Projects\DelegateExample\obj\Debug\DelegateExample.exe
+C:\Users\user1928\AppData\Local\Temporary Projects\DelegateExample\obj\Debug\DelegateExample.xml
+C:\Users\user1928\AppData\Local\Temporary Projects\DelegateExample\obj\Debug\DelegateExample.pdb
+C:\D\4. VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\DelegateExample\DelegateExample\bin\Debug\DelegateExample.exe.config
+C:\D\4. VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\DelegateExample\DelegateExample\obj\Debug\DelegateExample.exe
+C:\D\4. VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\DelegateExample\DelegateExample\obj\Debug\DelegateExample.xml
+C:\D\4. VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\DelegateExample\DelegateExample\obj\Debug\DelegateExample.pdb
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\DelegateExample\DelegateExample\bin\Debug\DelegateExample.exe.config
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\DelegateExample\DelegateExample\obj\Debug\DelegateExample.exe
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\DelegateExample\DelegateExample\obj\Debug\DelegateExample.xml
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\DelegateExample\DelegateExample\obj\Debug\DelegateExample.pdb

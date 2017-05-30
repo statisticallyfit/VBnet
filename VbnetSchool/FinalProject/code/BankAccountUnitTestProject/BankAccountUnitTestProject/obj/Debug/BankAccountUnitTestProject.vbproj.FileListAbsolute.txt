@@ -1,0 +1,3 @@
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\FinalProject\code\BankAccountUnitTestProject\BankAccountUnitTestProject\obj\Debug\BankAccountUnitTestProject.vbprojResolveAssemblyReference.cache
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\FinalProject\code\BankAccountUnitTestProject\BankAccountUnitTestProject\obj\Debug\BankAccountUnitTestProject.Resources.resources
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\FinalProject\code\BankAccountUnitTestProject\BankAccountUnitTestProject\obj\Debug\BankAccountUnitTestProject.vbproj.GenerateResource.Cache

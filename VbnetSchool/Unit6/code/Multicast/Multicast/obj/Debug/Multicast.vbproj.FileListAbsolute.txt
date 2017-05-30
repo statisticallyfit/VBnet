@@ -1,0 +1,13 @@
+C:\D\d) VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\Multicast\Multicast\bin\Debug\Multicast.exe.config
+C:\D\d) VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\Multicast\Multicast\bin\Debug\Multicast.exe
+C:\D\d) VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\Multicast\Multicast\bin\Debug\Multicast.pdb
+C:\D\d) VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\Multicast\Multicast\bin\Debug\Multicast.xml
+C:\D\d) VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\Multicast\Multicast\obj\Debug\Multicasat.Resources.resources
+C:\D\d) VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\Multicast\Multicast\obj\Debug\Multicast.vbproj.GenerateResource.Cache
+C:\D\d) VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\Multicast\Multicast\obj\Debug\Multicast.exe
+C:\D\d) VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\Multicast\Multicast\obj\Debug\Multicast.xml
+C:\D\d) VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\Multicast\Multicast\obj\Debug\Multicast.pdb
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\Multicast\Multicast\bin\Debug\Multicast.exe.config
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\Multicast\Multicast\obj\Debug\Multicast.exe
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\Multicast\Multicast\obj\Debug\Multicast.xml
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\Multicast\Multicast\obj\Debug\Multicast.pdb

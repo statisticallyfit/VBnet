@@ -1,0 +1,19 @@
+C:\Users\user1928\AppData\Local\Temporary Projects\DelegateMessageString\bin\Debug\DelegateMessageString.exe.config
+C:\D\4. VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\DelegateMessageString\DelegateMessageString\bin\Debug\DelegateMessageString.pdb
+C:\D\4. VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\DelegateMessageString\DelegateMessageString\bin\Debug\DelegateMessageString.xml
+C:\D\4. VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\DelegateMessageString\DelegateMessageString\obj\Debug\DelegateMessageString.Resources.resources
+C:\D\4. VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\DelegateMessageString\DelegateMessageString\obj\Debug\DelegateMessageString.vbproj.GenerateResource.Cache
+C:\D\4. VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\DelegateMessageString\DelegateMessageString\obj\Debug\DelegateMessageString.xml
+C:\D\4. VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\DelegateMessageString\DelegateMessageString\obj\Debug\DelegateMessageString.pdb
+C:\D\4. VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\DelegateMessageString\DelegateMessageString\bin\Debug\DelegateMessageString.exe.config
+C:\D\4. VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\DelegateMessageString\DelegateMessageString\bin\Debug\DelegateMessageString.exe
+C:\D\4. VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\DelegateMessageString\DelegateMessageString\obj\Debug\DelegateMessageString.exe
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\DelegateMessageString\DelegateMessageString\bin\Debug\DelegateMessageString.exe.config
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\DelegateMessageString\DelegateMessageString\obj\Debug\DelegateMessageString.exe
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\DelegateMessageString\DelegateMessageString\obj\Debug\DelegateMessageString.xml
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\DelegateMessageString\DelegateMessageString\obj\Debug\DelegateMessageString.pdb
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\DelegateMessageString\DelegateMessageString\bin\Debug\DelegateMessageString.exe
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\DelegateMessageString\DelegateMessageString\bin\Debug\DelegateMessageString.pdb
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\DelegateMessageString\DelegateMessageString\bin\Debug\DelegateMessageString.xml
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\DelegateMessageString\DelegateMessageString\obj\Debug\DelegateMessageString.Resources.resources
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\DelegateMessageString\DelegateMessageString\obj\Debug\DelegateMessageString.vbproj.GenerateResource.Cache

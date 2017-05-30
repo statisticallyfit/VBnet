@@ -1,0 +1,13 @@
+C:\Users\user1928\AppData\Local\Temporary Projects\EventPractice\bin\Debug\EventPractice.exe.config
+C:\Users\user1928\AppData\Local\Temporary Projects\EventPractice\bin\Debug\EventPractice.exe
+C:\Users\user1928\AppData\Local\Temporary Projects\EventPractice\bin\Debug\EventPractice.pdb
+C:\Users\user1928\AppData\Local\Temporary Projects\EventPractice\bin\Debug\EventPractice.xml
+C:\Users\user1928\AppData\Local\Temporary Projects\EventPractice\obj\Debug\EventPractice.Resources.resources
+C:\Users\user1928\AppData\Local\Temporary Projects\EventPractice\obj\Debug\EventPractice.vbproj.GenerateResource.Cache
+C:\Users\user1928\AppData\Local\Temporary Projects\EventPractice\obj\Debug\EventPractice.exe
+C:\Users\user1928\AppData\Local\Temporary Projects\EventPractice\obj\Debug\EventPractice.xml
+C:\Users\user1928\AppData\Local\Temporary Projects\EventPractice\obj\Debug\EventPractice.pdb
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\EventPractice\EventPractice\bin\Debug\EventPractice.exe.config
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\EventPractice\EventPractice\obj\Debug\EventPractice.exe
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\EventPractice\EventPractice\obj\Debug\EventPractice.xml
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\EventPractice\EventPractice\obj\Debug\EventPractice.pdb

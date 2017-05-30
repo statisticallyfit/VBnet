@@ -1,0 +1,4 @@
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\learnBDD\SpecFlowAndEF\DomainClasses\bin\Debug\DomainClasses.dll
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\learnBDD\SpecFlowAndEF\DomainClasses\bin\Debug\DomainClasses.pdb
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\learnBDD\SpecFlowAndEF\DomainClasses\obj\Debug\DomainClasses.dll
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\learnBDD\SpecFlowAndEF\DomainClasses\obj\Debug\DomainClasses.pdb

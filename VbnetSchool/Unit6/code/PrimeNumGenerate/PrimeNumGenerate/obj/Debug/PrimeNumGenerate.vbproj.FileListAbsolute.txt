@@ -1,0 +1,13 @@
+C:\Users\user1928\AppData\Local\Temporary Projects\PrimeNumGenerate\bin\Debug\PrimeNumGenerate.exe.config
+C:\Users\user1928\AppData\Local\Temporary Projects\PrimeNumGenerate\obj\Debug\PrimeNumGenerate.Resources.resources
+C:\Users\user1928\AppData\Local\Temporary Projects\PrimeNumGenerate\obj\Debug\PrimeNumGenerate.vbproj.GenerateResource.Cache
+C:\Users\user1928\AppData\Local\Temporary Projects\PrimeNumGenerate\bin\Debug\PrimeNumGenerate.exe
+C:\Users\user1928\AppData\Local\Temporary Projects\PrimeNumGenerate\bin\Debug\PrimeNumGenerate.pdb
+C:\Users\user1928\AppData\Local\Temporary Projects\PrimeNumGenerate\bin\Debug\PrimeNumGenerate.xml
+C:\Users\user1928\AppData\Local\Temporary Projects\PrimeNumGenerate\obj\Debug\PrimeNumGenerate.exe
+C:\Users\user1928\AppData\Local\Temporary Projects\PrimeNumGenerate\obj\Debug\PrimeNumGenerate.xml
+C:\Users\user1928\AppData\Local\Temporary Projects\PrimeNumGenerate\obj\Debug\PrimeNumGenerate.pdb
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\PrimeNumGenerate\PrimeNumGenerate\bin\Debug\PrimeNumGenerate.exe.config
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\PrimeNumGenerate\PrimeNumGenerate\obj\Debug\PrimeNumGenerate.exe
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\PrimeNumGenerate\PrimeNumGenerate\obj\Debug\PrimeNumGenerate.xml
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\PrimeNumGenerate\PrimeNumGenerate\obj\Debug\PrimeNumGenerate.pdb

@@ -1,0 +1,13 @@
+C:\Users\user1928\AppData\Local\Temporary Projects\tempDelegate\bin\Debug\tempDelegate.exe.config
+C:\Users\user1928\AppData\Local\Temporary Projects\tempDelegate\bin\Debug\tempDelegate.exe
+C:\Users\user1928\AppData\Local\Temporary Projects\tempDelegate\bin\Debug\tempDelegate.pdb
+C:\Users\user1928\AppData\Local\Temporary Projects\tempDelegate\bin\Debug\tempDelegate.xml
+C:\Users\user1928\AppData\Local\Temporary Projects\tempDelegate\obj\Debug\tempDelegate.Resources.resources
+C:\Users\user1928\AppData\Local\Temporary Projects\tempDelegate\obj\Debug\tempDelegate.vbproj.GenerateResource.Cache
+C:\Users\user1928\AppData\Local\Temporary Projects\tempDelegate\obj\Debug\tempDelegate.exe
+C:\Users\user1928\AppData\Local\Temporary Projects\tempDelegate\obj\Debug\tempDelegate.xml
+C:\Users\user1928\AppData\Local\Temporary Projects\tempDelegate\obj\Debug\tempDelegate.pdb
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\tempDelegate\tempDelegate\bin\Debug\tempDelegate.exe.config
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\tempDelegate\tempDelegate\obj\Debug\tempDelegate.exe
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\tempDelegate\tempDelegate\obj\Debug\tempDelegate.xml
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\tempDelegate\tempDelegate\obj\Debug\tempDelegate.pdb

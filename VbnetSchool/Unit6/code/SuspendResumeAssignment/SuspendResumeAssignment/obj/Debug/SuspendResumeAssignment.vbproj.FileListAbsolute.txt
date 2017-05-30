@@ -1,0 +1,18 @@
+C:\Users\user1928\AppData\Local\Temporary Projects\SuspendResumeAssignment\bin\Debug\SuspendResumeAssignment.exe.config
+C:\Users\user1928\AppData\Local\Temporary Projects\SuspendResumeAssignment\obj\Debug\SuspendResumeAssignment.Resources.resources
+C:\Users\user1928\AppData\Local\Temporary Projects\SuspendResumeAssignment\obj\Debug\SuspendResumeAssignment.vbproj.GenerateResource.Cache
+C:\Users\user1928\AppData\Local\Temporary Projects\SuspendResumeAssignment\bin\Debug\SuspendResumeAssignment.exe
+C:\Users\user1928\AppData\Local\Temporary Projects\SuspendResumeAssignment\bin\Debug\SuspendResumeAssignment.pdb
+C:\Users\user1928\AppData\Local\Temporary Projects\SuspendResumeAssignment\bin\Debug\SuspendResumeAssignment.xml
+C:\Users\user1928\AppData\Local\Temporary Projects\SuspendResumeAssignment\obj\Debug\SuspendResumeAssignment.exe
+C:\Users\user1928\AppData\Local\Temporary Projects\SuspendResumeAssignment\obj\Debug\SuspendResumeAssignment.xml
+C:\Users\user1928\AppData\Local\Temporary Projects\SuspendResumeAssignment\obj\Debug\SuspendResumeAssignment.pdb
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\SuspendResumeAssignment\SuspendResumeAssignment\bin\Debug\SuspendResumeAssignment.exe.config
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\SuspendResumeAssignment\SuspendResumeAssignment\obj\Debug\SuspendResumeAssignment.exe
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\SuspendResumeAssignment\SuspendResumeAssignment\obj\Debug\SuspendResumeAssignment.xml
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\SuspendResumeAssignment\SuspendResumeAssignment\obj\Debug\SuspendResumeAssignment.pdb
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\SuspendResumeAssignment\SuspendResumeAssignment\bin\Debug\SuspendResumeAssignment.exe
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\SuspendResumeAssignment\SuspendResumeAssignment\bin\Debug\SuspendResumeAssignment.pdb
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\SuspendResumeAssignment\SuspendResumeAssignment\bin\Debug\SuspendResumeAssignment.xml
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\SuspendResumeAssignment\SuspendResumeAssignment\obj\Debug\SuspendResumeAssignment.Resources.resources
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\SuspendResumeAssignment\SuspendResumeAssignment\obj\Debug\SuspendResumeAssignment.vbproj.GenerateResource.Cache

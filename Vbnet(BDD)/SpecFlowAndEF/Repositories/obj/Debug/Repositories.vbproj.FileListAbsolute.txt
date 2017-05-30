@@ -1,0 +1,12 @@
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\learnBDD\SpecFlowAndEF\Repositories\bin\Debug\Repositories.dll.config
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\learnBDD\SpecFlowAndEF\Repositories\bin\Debug\Repositories.dll
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\learnBDD\SpecFlowAndEF\Repositories\bin\Debug\Repositories.pdb
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\learnBDD\SpecFlowAndEF\Repositories\bin\Debug\DataLayer.dll
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\learnBDD\SpecFlowAndEF\Repositories\bin\Debug\DomainClasses.dll
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\learnBDD\SpecFlowAndEF\Repositories\bin\Debug\EntityFramework.dll
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\learnBDD\SpecFlowAndEF\Repositories\bin\Debug\DataLayer.pdb
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\learnBDD\SpecFlowAndEF\Repositories\bin\Debug\DomainClasses.pdb
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\learnBDD\SpecFlowAndEF\Repositories\bin\Debug\EntityFramework.xml
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\learnBDD\SpecFlowAndEF\Repositories\obj\Debug\Repositories.vbprojResolveAssemblyReference.cache
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\learnBDD\SpecFlowAndEF\Repositories\obj\Debug\Repositories.dll
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\learnBDD\SpecFlowAndEF\Repositories\obj\Debug\Repositories.pdb

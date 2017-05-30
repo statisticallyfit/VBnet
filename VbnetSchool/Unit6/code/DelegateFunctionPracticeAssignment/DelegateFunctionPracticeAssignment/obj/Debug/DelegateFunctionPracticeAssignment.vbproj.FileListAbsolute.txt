@@ -1,0 +1,22 @@
+C:\Users\user1928\AppData\Local\Temporary Projects\DelegateFunctionPracticeAssignment\bin\Debug\DelegateFunctionPracticeAssignment.exe.config
+C:\Users\user1928\AppData\Local\Temporary Projects\DelegateFunctionPracticeAssignment\bin\Debug\DelegateFunctionPracticeAssignment.exe
+C:\Users\user1928\AppData\Local\Temporary Projects\DelegateFunctionPracticeAssignment\bin\Debug\DelegateFunctionPracticeAssignment.pdb
+C:\Users\user1928\AppData\Local\Temporary Projects\DelegateFunctionPracticeAssignment\bin\Debug\DelegateFunctionPracticeAssignment.xml
+C:\Users\user1928\AppData\Local\Temporary Projects\DelegateFunctionPracticeAssignment\obj\Debug\DelegateFunctionPracticeAssignment.Resources.resources
+C:\Users\user1928\AppData\Local\Temporary Projects\DelegateFunctionPracticeAssignment\obj\Debug\DelegateFunctionPracticeAssignment.vbproj.GenerateResource.Cache
+C:\Users\user1928\AppData\Local\Temporary Projects\DelegateFunctionPracticeAssignment\obj\Debug\DelegateFunctionPracticeAssignment.exe
+C:\Users\user1928\AppData\Local\Temporary Projects\DelegateFunctionPracticeAssignment\obj\Debug\DelegateFunctionPracticeAssignment.xml
+C:\Users\user1928\AppData\Local\Temporary Projects\DelegateFunctionPracticeAssignment\obj\Debug\DelegateFunctionPracticeAssignment.pdb
+C:\D\d) VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\DelegateFunctionPracticeAssignment\DelegateFunctionPracticeAssignment\bin\Debug\DelegateFunctionPracticeAssignment.exe.config
+C:\D\d) VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\DelegateFunctionPracticeAssignment\DelegateFunctionPracticeAssignment\obj\Debug\DelegateFunctionPracticeAssignment.exe
+C:\D\d) VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\DelegateFunctionPracticeAssignment\DelegateFunctionPracticeAssignment\obj\Debug\DelegateFunctionPracticeAssignment.xml
+C:\D\d) VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\DelegateFunctionPracticeAssignment\DelegateFunctionPracticeAssignment\obj\Debug\DelegateFunctionPracticeAssignment.pdb
+C:\D\d) VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\DelegateFunctionPracticeAssignment\DelegateFunctionPracticeAssignment\bin\Debug\DelegateFunctionPracticeAssignment.exe
+C:\D\d) VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\DelegateFunctionPracticeAssignment\DelegateFunctionPracticeAssignment\bin\Debug\DelegateFunctionPracticeAssignment.pdb
+C:\D\d) VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\DelegateFunctionPracticeAssignment\DelegateFunctionPracticeAssignment\bin\Debug\DelegateFunctionPracticeAssignment.xml
+C:\D\d) VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\DelegateFunctionPracticeAssignment\DelegateFunctionPracticeAssignment\obj\Debug\DelegateFunctionPracticeAssignment.Resources.resources
+C:\D\d) VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\DelegateFunctionPracticeAssignment\DelegateFunctionPracticeAssignment\obj\Debug\DelegateFunctionPracticeAssignment.vbproj.GenerateResource.Cache
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\DelegateFunctionPracticeAssignment\DelegateFunctionPracticeAssignment\bin\Debug\DelegateFunctionPracticeAssignment.exe.config
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\DelegateFunctionPracticeAssignment\DelegateFunctionPracticeAssignment\obj\Debug\DelegateFunctionPracticeAssignment.exe
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\DelegateFunctionPracticeAssignment\DelegateFunctionPracticeAssignment\obj\Debug\DelegateFunctionPracticeAssignment.xml
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\DelegateFunctionPracticeAssignment\DelegateFunctionPracticeAssignment\obj\Debug\DelegateFunctionPracticeAssignment.pdb

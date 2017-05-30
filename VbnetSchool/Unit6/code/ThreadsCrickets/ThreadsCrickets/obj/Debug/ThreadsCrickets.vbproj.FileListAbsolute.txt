@@ -1,0 +1,9 @@
+C:\Users\user1928\AppData\Local\Temporary Projects\ThreadsCrickets\bin\Debug\ThreadsCrickets.exe.config
+C:\Users\user1928\AppData\Local\Temporary Projects\ThreadsCrickets\obj\Debug\ThreadsCrickets.Resources.resources
+C:\Users\user1928\AppData\Local\Temporary Projects\ThreadsCrickets\obj\Debug\ThreadsCrickets.vbproj.GenerateResource.Cache
+C:\Users\user1928\AppData\Local\Temporary Projects\ThreadsCrickets\bin\Debug\ThreadsCrickets.exe
+C:\Users\user1928\AppData\Local\Temporary Projects\ThreadsCrickets\bin\Debug\ThreadsCrickets.pdb
+C:\Users\user1928\AppData\Local\Temporary Projects\ThreadsCrickets\bin\Debug\ThreadsCrickets.xml
+C:\Users\user1928\AppData\Local\Temporary Projects\ThreadsCrickets\obj\Debug\ThreadsCrickets.exe
+C:\Users\user1928\AppData\Local\Temporary Projects\ThreadsCrickets\obj\Debug\ThreadsCrickets.xml
+C:\Users\user1928\AppData\Local\Temporary Projects\ThreadsCrickets\obj\Debug\ThreadsCrickets.pdb

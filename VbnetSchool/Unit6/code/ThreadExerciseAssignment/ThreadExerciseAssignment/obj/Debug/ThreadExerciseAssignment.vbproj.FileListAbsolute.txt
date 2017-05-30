@@ -1,0 +1,12 @@
+C:\Users\user1928\AppData\Local\Temporary Projects\ThreadExerciseAssignment\bin\Debug\ThreadExerciseAssignment.exe.config
+C:\Users\user1928\AppData\Local\Temporary Projects\ThreadExerciseAssignment\obj\Debug\ThreadExerciseAssignment.Resources.resources
+C:\Users\user1928\AppData\Local\Temporary Projects\ThreadExerciseAssignment\obj\Debug\ThreadExerciseAssignment.vbproj.GenerateResource.Cache
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\ThreadExerciseAssignment\ThreadExerciseAssignment\bin\Debug\ThreadExerciseAssignment.pdb
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\ThreadExerciseAssignment\ThreadExerciseAssignment\bin\Debug\ThreadExerciseAssignment.xml
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\ThreadExerciseAssignment\ThreadExerciseAssignment\obj\Debug\ThreadExerciseAssignment.Resources.resources
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\ThreadExerciseAssignment\ThreadExerciseAssignment\obj\Debug\ThreadExerciseAssignment.vbproj.GenerateResource.Cache
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\ThreadExerciseAssignment\ThreadExerciseAssignment\obj\Debug\ThreadExerciseAssignment.xml
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\ThreadExerciseAssignment\ThreadExerciseAssignment\obj\Debug\ThreadExerciseAssignment.pdb
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\ThreadExerciseAssignment\ThreadExerciseAssignment\bin\Debug\ThreadExerciseAssignment.exe.config
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\ThreadExerciseAssignment\ThreadExerciseAssignment\bin\Debug\ThreadExerciseAssignment.exe
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\ThreadExerciseAssignment\ThreadExerciseAssignment\obj\Debug\ThreadExerciseAssignment.exe

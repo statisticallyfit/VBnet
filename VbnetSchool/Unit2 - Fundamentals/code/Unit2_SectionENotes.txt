@@ -1,0 +1,38 @@
+'Let user input go into name and team variables 
+        name = Console.Read()
+        team = Console.Read()
+
+
+What does this do?
+
+
+Module Module1
+
+    Sub Main()
+        'Declare string variables name and team 
+        Dim name As String
+        Dim team As String
+
+        ' Display instructions
+        Console.WriteLine("To see my name, type 'Your name' below. To see my favorite sports team, type 'Your team' ")
+
+        'Let user input go into name and team variables 
+        name = Console.ReadLine()
+
+        ' If "Your name" is typed, print the name
+        If name.Equals("Your name") Then
+            Console.WriteLine("My name is Ana-Maria!")
+        End If
+
+        team = Console.ReadLine()
+        ' If "Your team" is typed, print the team
+        If team.Equals("Your team") Then
+            Console.WriteLine("My favorite sports team is the x")
+        End If
+
+        ' This pauses the program to see the output
+        Console.ReadKey()
+
+    End Sub
+
+End Module

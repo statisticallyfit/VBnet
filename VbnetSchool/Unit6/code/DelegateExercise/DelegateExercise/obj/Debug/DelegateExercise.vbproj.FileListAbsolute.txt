@@ -1,0 +1,10 @@
+C:\Users\user1928\AppData\Local\Temporary Projects\DelegateExercise\bin\Debug\DelegateExercise.exe.config
+C:\D\4. VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\DelegateExercise\DelegateExercise\bin\Debug\DelegateExercise.exe.config
+C:\D\4. VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\DelegateExercise\DelegateExercise\bin\Debug\DelegateExercise.exe
+C:\D\4. VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\DelegateExercise\DelegateExercise\bin\Debug\DelegateExercise.pdb
+C:\D\4. VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\DelegateExercise\DelegateExercise\bin\Debug\DelegateExercise.xml
+C:\D\4. VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\DelegateExercise\DelegateExercise\obj\Debug\DelegateExercise.Resources.resources
+C:\D\4. VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\DelegateExercise\DelegateExercise\obj\Debug\DelegateExercise.vbproj.GenerateResource.Cache
+C:\D\4. VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\DelegateExercise\DelegateExercise\obj\Debug\DelegateExercise.exe
+C:\D\4. VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\DelegateExercise\DelegateExercise\obj\Debug\DelegateExercise.xml
+C:\D\4. VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\DelegateExercise\DelegateExercise\obj\Debug\DelegateExercise.pdb

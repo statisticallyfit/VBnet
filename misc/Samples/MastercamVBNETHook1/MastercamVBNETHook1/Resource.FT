@@ -1,0 +1,51 @@
+﻿###############################################################################
+# NETHook function table			
+###############################################################################
+#
+# Name		: .ft
+# NETHook 	: .dll
+# Date		: 
+# Author	: 
+# Notes		: 
+# Language	: VB.NET
+#
+###############################################################################
+
+
+######################
+# ASSIGN A UNIQUE NAME
+######################
+APPLICATION "NAME_OF_YOUR_PROJECT"
+
+######################
+# NETHook LOCATION
+######################
+#
+# Create a sub folder NAME_OF_YOUR_PROJECT below the main CHooks folder.
+# Update paths below to match your install path and project name.
+FUNC_DLL   "CHOOKS\NAME_OF_YOUR_PROJECT\NAME_OF_YOUR_PROJECT.dll"
+RES_DLL    "SAME"
+dnRES_NAME "NAME_OF_YOUR_PROJECT.Resource"
+CATEGORY   "NETHook"
+
+##############################################################################
+# Public functions here
+##############################################################################
+#
+# Sytem entry point
+FUNCTION NET "Run"
+    dnSBMP "Run16"
+    dnLBMP "Run24"
+    dnTIP  "RunTip"
+END_FUNCTION
+
+# User created entry point
+FUNCTION NET "MyCustomFunction"
+    dnSBMP "Custom16"
+    dnLBMP "Custom24"
+    dnTIP  "CustomTip"
+END_FUNCTION
+
+
+#
+# EOF

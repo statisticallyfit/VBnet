@@ -1,0 +1,17 @@
+C:\Users\user1928\AppData\Local\Temporary Projects\SplitExample\bin\Debug\SplitExample.exe.config
+C:\Users\user1928\AppData\Local\Temporary Projects\SplitExample\bin\Debug\SplitExample.exe
+C:\Users\user1928\AppData\Local\Temporary Projects\SplitExample\bin\Debug\SplitExample.pdb
+C:\Users\user1928\AppData\Local\Temporary Projects\SplitExample\bin\Debug\SplitExample.xml
+C:\Users\user1928\AppData\Local\Temporary Projects\SplitExample\obj\Debug\SplitExample.Resources.resources
+C:\Users\user1928\AppData\Local\Temporary Projects\SplitExample\obj\Debug\SplitExample.vbproj.GenerateResource.Cache
+C:\Users\user1928\AppData\Local\Temporary Projects\SplitExample\obj\Debug\SplitExample.exe
+C:\Users\user1928\AppData\Local\Temporary Projects\SplitExample\obj\Debug\SplitExample.xml
+C:\Users\user1928\AppData\Local\Temporary Projects\SplitExample\obj\Debug\SplitExample.pdb
+C:\D\4. VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\SplitExample\SplitExample\bin\Debug\SplitExample.exe.config
+C:\D\4. VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\SplitExample\SplitExample\obj\Debug\SplitExample.exe
+C:\D\4. VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\SplitExample\SplitExample\obj\Debug\SplitExample.xml
+C:\D\4. VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\SplitExample\SplitExample\obj\Debug\SplitExample.pdb
+C:\D\d) VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\SplitExample\SplitExample\bin\Debug\SplitExample.exe.config
+C:\D\d) VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\SplitExample\SplitExample\obj\Debug\SplitExample.exe
+C:\D\d) VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\SplitExample\SplitExample\obj\Debug\SplitExample.xml
+C:\D\d) VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\SplitExample\SplitExample\obj\Debug\SplitExample.pdb

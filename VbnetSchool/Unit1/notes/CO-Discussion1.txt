@@ -1,0 +1,9 @@
+Unit 1 Discussion: Getting to Know You
+
+Discussion Prompt: What do you know about programming? Do you have experience? Why are you taking this class?
+
+
+Hello everyone! My name is Ana-Maria and I have programming experience because I have done one semester of C++ and one semester of Java. I am familiar with creating programs in both languages, and have enjoyed both courses very much because I like to structure programs efficiently and understand how they execute commands.  
+I am taking this class for two reasons: 
+1) To increase my programming language, besides C++ and Java. 
+2) To be able to use computer science skills for my future mathematical career, which will involve programming to implement formulas.  

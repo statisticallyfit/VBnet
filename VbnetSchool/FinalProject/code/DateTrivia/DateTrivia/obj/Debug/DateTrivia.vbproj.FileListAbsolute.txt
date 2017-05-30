@@ -1,0 +1,18 @@
+C:\Users\user1928\AppData\Local\Temporary Projects\DateTrivia\bin\Debug\DateTrivia.exe.config
+C:\Users\user1928\AppData\Local\Temporary Projects\DateTrivia\bin\Debug\DateTrivia.exe
+C:\Users\user1928\AppData\Local\Temporary Projects\DateTrivia\bin\Debug\DateTrivia.pdb
+C:\Users\user1928\AppData\Local\Temporary Projects\DateTrivia\bin\Debug\DateTrivia.xml
+C:\Users\user1928\AppData\Local\Temporary Projects\DateTrivia\obj\Debug\DateTrivia.Resources.resources
+C:\Users\user1928\AppData\Local\Temporary Projects\DateTrivia\obj\Debug\DateTrivia.vbproj.GenerateResource.Cache
+C:\Users\user1928\AppData\Local\Temporary Projects\DateTrivia\obj\Debug\DateTrivia.exe
+C:\Users\user1928\AppData\Local\Temporary Projects\DateTrivia\obj\Debug\DateTrivia.xml
+C:\Users\user1928\AppData\Local\Temporary Projects\DateTrivia\obj\Debug\DateTrivia.pdb
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\FinalProject\code\DateTrivia\DateTrivia\bin\Debug\DateTrivia.exe.config
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\FinalProject\code\DateTrivia\DateTrivia\obj\Debug\DateTrivia.exe
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\FinalProject\code\DateTrivia\DateTrivia\obj\Debug\DateTrivia.xml
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\FinalProject\code\DateTrivia\DateTrivia\obj\Debug\DateTrivia.pdb
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\FinalProject\code\DateTrivia\DateTrivia\bin\Debug\DateTrivia.exe
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\FinalProject\code\DateTrivia\DateTrivia\bin\Debug\DateTrivia.pdb
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\FinalProject\code\DateTrivia\DateTrivia\bin\Debug\DateTrivia.xml
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\FinalProject\code\DateTrivia\DateTrivia\obj\Debug\DateTrivia.Resources.resources
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\FinalProject\code\DateTrivia\DateTrivia\obj\Debug\DateTrivia.vbproj.GenerateResource.Cache

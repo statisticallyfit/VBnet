@@ -1,0 +1,18 @@
+C:\Users\user1928\AppData\Local\Temporary Projects\SampleDateTime\bin\Debug\SampleDateTime.exe.config
+C:\Users\user1928\AppData\Local\Temporary Projects\SampleDateTime\bin\Debug\SampleDateTime.exe
+C:\Users\user1928\AppData\Local\Temporary Projects\SampleDateTime\bin\Debug\SampleDateTime.pdb
+C:\Users\user1928\AppData\Local\Temporary Projects\SampleDateTime\bin\Debug\SampleDateTime.xml
+C:\Users\user1928\AppData\Local\Temporary Projects\SampleDateTime\obj\Debug\SampleDateTime.Resources.resources
+C:\Users\user1928\AppData\Local\Temporary Projects\SampleDateTime\obj\Debug\SampleDateTime.vbproj.GenerateResource.Cache
+C:\Users\user1928\AppData\Local\Temporary Projects\SampleDateTime\obj\Debug\SampleDateTime.exe
+C:\Users\user1928\AppData\Local\Temporary Projects\SampleDateTime\obj\Debug\SampleDateTime.xml
+C:\Users\user1928\AppData\Local\Temporary Projects\SampleDateTime\obj\Debug\SampleDateTime.pdb
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\FinalProject\code\SampleDateTime\SampleDateTime\bin\Debug\SampleDateTime.exe.config
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\FinalProject\code\SampleDateTime\SampleDateTime\obj\Debug\SampleDateTime.exe
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\FinalProject\code\SampleDateTime\SampleDateTime\obj\Debug\SampleDateTime.xml
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\FinalProject\code\SampleDateTime\SampleDateTime\obj\Debug\SampleDateTime.pdb
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\FinalProject\code\SampleDateTime\SampleDateTime\bin\Debug\SampleDateTime.exe
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\FinalProject\code\SampleDateTime\SampleDateTime\bin\Debug\SampleDateTime.pdb
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\FinalProject\code\SampleDateTime\SampleDateTime\bin\Debug\SampleDateTime.xml
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\FinalProject\code\SampleDateTime\SampleDateTime\obj\Debug\SampleDateTime.Resources.resources
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\FinalProject\code\SampleDateTime\SampleDateTime\obj\Debug\SampleDateTime.vbproj.GenerateResource.Cache

@@ -1,0 +1,13 @@
+C:\Users\user1928\AppData\Local\Temporary Projects\ThreadPractice1\bin\Debug\ThreadPractice1.exe.config
+C:\Users\user1928\AppData\Local\Temporary Projects\ThreadPractice1\bin\Debug\ThreadPractice1.exe
+C:\Users\user1928\AppData\Local\Temporary Projects\ThreadPractice1\bin\Debug\ThreadPractice1.pdb
+C:\Users\user1928\AppData\Local\Temporary Projects\ThreadPractice1\bin\Debug\ThreadPractice1.xml
+C:\Users\user1928\AppData\Local\Temporary Projects\ThreadPractice1\obj\Debug\ThreadPractice1.Resources.resources
+C:\Users\user1928\AppData\Local\Temporary Projects\ThreadPractice1\obj\Debug\ThreadPractice1.vbproj.GenerateResource.Cache
+C:\Users\user1928\AppData\Local\Temporary Projects\ThreadPractice1\obj\Debug\ThreadPractice1.exe
+C:\Users\user1928\AppData\Local\Temporary Projects\ThreadPractice1\obj\Debug\ThreadPractice1.xml
+C:\Users\user1928\AppData\Local\Temporary Projects\ThreadPractice1\obj\Debug\ThreadPractice1.pdb
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\ThreadPractice1\ThreadPractice1\bin\Debug\ThreadPractice1.exe.config
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\ThreadPractice1\ThreadPractice1\obj\Debug\ThreadPractice1.exe
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\ThreadPractice1\ThreadPractice1\obj\Debug\ThreadPractice1.xml
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\ThreadPractice1\ThreadPractice1\obj\Debug\ThreadPractice1.pdb

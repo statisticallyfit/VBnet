@@ -1,0 +1,27 @@
+C:\Users\user1928\AppData\Local\Temporary Projects\ProgramArea\bin\Debug\ProgramArea.pdb
+C:\Users\user1928\AppData\Local\Temporary Projects\ProgramArea\bin\Debug\ProgramArea.xml
+C:\Users\user1928\AppData\Local\Temporary Projects\ProgramArea\obj\Debug\ProgramArea.Resources.resources
+C:\Users\user1928\AppData\Local\Temporary Projects\ProgramArea\obj\Debug\ProgramArea.vbproj.GenerateResource.Cache
+C:\Users\user1928\AppData\Local\Temporary Projects\ProgramArea\obj\Debug\ProgramArea.xml
+C:\Users\user1928\AppData\Local\Temporary Projects\ProgramArea\obj\Debug\ProgramArea.pdb
+C:\Users\user1928\AppData\Local\Temporary Projects\ProgramArea\bin\Debug\ProgramArea.exe.config
+C:\Users\user1928\AppData\Local\Temporary Projects\ProgramArea\bin\Debug\ProgramArea.exe
+C:\Users\user1928\AppData\Local\Temporary Projects\ProgramArea\obj\Debug\ProgramArea.exe
+C:\D\d) VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\ProgramArea\ProgramArea\bin\Debug\ProgramArea.exe.config
+C:\D\d) VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\ProgramArea\ProgramArea\obj\Debug\ProgramArea.xml
+C:\D\d) VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\ProgramArea\ProgramArea\obj\Debug\ProgramArea.pdb
+C:\D\d) VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\ProgramArea\ProgramArea\bin\Debug\ProgramArea.exe
+C:\D\d) VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\ProgramArea\ProgramArea\bin\Debug\ProgramArea.pdb
+C:\D\d) VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\ProgramArea\ProgramArea\bin\Debug\ProgramArea.xml
+C:\D\d) VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\ProgramArea\ProgramArea\obj\Debug\ProgramArea.Resources.resources
+C:\D\d) VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\ProgramArea\ProgramArea\obj\Debug\ProgramArea.vbproj.GenerateResource.Cache
+C:\D\d) VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\ProgramArea\ProgramArea\obj\Debug\ProgramArea.exe
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\ProgramArea\ProgramArea\bin\Debug\ProgramArea.exe.config
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\ProgramArea\ProgramArea\obj\Debug\ProgramArea.xml
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\ProgramArea\ProgramArea\obj\Debug\ProgramArea.pdb
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\ProgramArea\ProgramArea\bin\Debug\ProgramArea.exe
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\ProgramArea\ProgramArea\bin\Debug\ProgramArea.pdb
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\ProgramArea\ProgramArea\bin\Debug\ProgramArea.xml
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\ProgramArea\ProgramArea\obj\Debug\ProgramArea.Resources.resources
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\ProgramArea\ProgramArea\obj\Debug\ProgramArea.vbproj.GenerateResource.Cache
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\ProgramArea\ProgramArea\obj\Debug\ProgramArea.exe

@@ -1,0 +1,9 @@
+C:\D\d) VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit4\code\Stack\Stack\bin\Debug\Stack.exe.config
+C:\D\d) VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit4\code\Stack\Stack\bin\Debug\Stack.exe
+C:\D\d) VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit4\code\Stack\Stack\bin\Debug\Stack.pdb
+C:\D\d) VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit4\code\Stack\Stack\bin\Debug\Stack.xml
+C:\D\d) VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit4\code\Stack\Stack\obj\Debug\Stack.Resources.resources
+C:\D\d) VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit4\code\Stack\Stack\obj\Debug\Stack.vbproj.GenerateResource.Cache
+C:\D\d) VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit4\code\Stack\Stack\obj\Debug\Stack.exe
+C:\D\d) VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit4\code\Stack\Stack\obj\Debug\Stack.xml
+C:\D\d) VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit4\code\Stack\Stack\obj\Debug\Stack.pdb

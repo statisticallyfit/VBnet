@@ -1,0 +1,18 @@
+C:\Users\user1928\AppData\Local\Temporary Projects\EventExample\bin\Debug\EventExample.exe.config
+C:\Users\user1928\AppData\Local\Temporary Projects\EventExample\bin\Debug\EventExample.exe
+C:\Users\user1928\AppData\Local\Temporary Projects\EventExample\bin\Debug\EventExample.pdb
+C:\Users\user1928\AppData\Local\Temporary Projects\EventExample\bin\Debug\EventExample.xml
+C:\Users\user1928\AppData\Local\Temporary Projects\EventExample\obj\Debug\EventExample.Resources.resources
+C:\Users\user1928\AppData\Local\Temporary Projects\EventExample\obj\Debug\EventExample.vbproj.GenerateResource.Cache
+C:\Users\user1928\AppData\Local\Temporary Projects\EventExample\obj\Debug\EventExample.exe
+C:\Users\user1928\AppData\Local\Temporary Projects\EventExample\obj\Debug\EventExample.xml
+C:\Users\user1928\AppData\Local\Temporary Projects\EventExample\obj\Debug\EventExample.pdb
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\EventExample\EventExample\bin\Debug\EventExample.exe.config
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\EventExample\EventExample\obj\Debug\EventExample.xml
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\EventExample\EventExample\obj\Debug\EventExample.pdb
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\EventExample\EventExample\bin\Debug\EventExample.exe
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\EventExample\EventExample\bin\Debug\EventExample.pdb
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\EventExample\EventExample\bin\Debug\EventExample.xml
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\EventExample\EventExample\obj\Debug\EventExample.Resources.resources
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\EventExample\EventExample\obj\Debug\EventExample.vbproj.GenerateResource.Cache
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\EventExample\EventExample\obj\Debug\EventExample.exe

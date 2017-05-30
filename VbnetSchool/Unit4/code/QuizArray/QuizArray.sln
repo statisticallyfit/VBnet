@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "QuizArray", "QuizArray\QuizArray.vbproj", "{F90C38BA-37A2-4B16-8A4B-5112F8E17D13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F90C38BA-37A2-4B16-8A4B-5112F8E17D13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F90C38BA-37A2-4B16-8A4B-5112F8E17D13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F90C38BA-37A2-4B16-8A4B-5112F8E17D13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F90C38BA-37A2-4B16-8A4B-5112F8E17D13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+C:\D\d) VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\MulticastExample\MulticastExample\bin\Debug\MulticastExample.exe.config
+C:\D\d) VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\MulticastExample\MulticastExample\bin\Debug\MulticastExample.exe
+C:\D\d) VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\MulticastExample\MulticastExample\bin\Debug\MulticastExample.pdb
+C:\D\d) VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\MulticastExample\MulticastExample\bin\Debug\MulticastExample.xml
+C:\D\d) VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\MulticastExample\MulticastExample\obj\Debug\MulticastExample.Resources.resources
+C:\D\d) VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\MulticastExample\MulticastExample\obj\Debug\MulticastExample.vbproj.GenerateResource.Cache
+C:\D\d) VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\MulticastExample\MulticastExample\obj\Debug\MulticastExample.exe
+C:\D\d) VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\MulticastExample\MulticastExample\obj\Debug\MulticastExample.xml
+C:\D\d) VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\MulticastExample\MulticastExample\obj\Debug\MulticastExample.pdb

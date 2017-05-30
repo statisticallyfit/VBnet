@@ -1,0 +1,25 @@
+Module Module1
+    Class MultiplyTwo
+'Create the subtraction function and declare variables
+        Public Function Multiply(ByVal m As Integer, ByVal n As Integer)
+            Return m * n
+        End Function
+    End Class
+    Sub Main()
+'Declare and object in class to use the object to pass the function variables
+        Dim obj As New MultiplyTwo()
+'Print
+        Console.WriteLine("The answer is: " + CStr(obj.Multiply(9, 8)))
+'Pause to see output      
+        Console.ReadKey()
+    End Sub
+
+End Module
+
+
+' I used the object obj because it is simpler than saying "objMultiply" 
+and to avoid reader confusion about what its function is. If the name was "objMultiply," 
+another person may have believed the object itself caused the multiplication, rather than 
+the function. 
+' I chose this class "MultiplyTwo" to explicitly define what the program is going to do, 
+which is to subtract two numbers. 

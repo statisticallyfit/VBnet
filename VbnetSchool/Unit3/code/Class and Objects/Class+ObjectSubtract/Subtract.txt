@@ -1,0 +1,25 @@
+Module Module1
+    Class SubtractTwo
+        'Create the subtraction function and declare variables
+        Public Function Subtract(ByVal a As Integer, ByVal b As Integer)
+            Return a - b
+        End Function
+    End Class
+    
+    Sub Main()
+        'Declare and object in class to use the object to pass the function variables
+        Dim obj As New SubtractTwo()
+        ' Print
+        Console.WriteLine("This is the final answer: " + CStr(obj.Subtract(10, 3)))
+        ' Pause to see output
+        Console.ReadKey()
+    End Sub
+
+End Module
+
+
+' I used the object obj because it is shorter and simpler than saying "objSubtract" 
+and the reader will not think the "Subtract" in the name is the code that calls the
+Subtract Function. 
+' I chose this class "SubtractTwo" to explicitly define what the program is going to do, 
+which is to subtract two numbers. 

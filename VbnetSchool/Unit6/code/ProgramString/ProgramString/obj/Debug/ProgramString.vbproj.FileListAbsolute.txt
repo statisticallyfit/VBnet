@@ -1,0 +1,19 @@
+C:\Users\user1928\AppData\Local\Temporary Projects\ProgramString\bin\Debug\ProgramString.exe.config
+C:\D\d) VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\ProgramString\ProgramString\bin\Debug\ProgramString.exe.config
+C:\D\d) VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\ProgramString\ProgramString\bin\Debug\ProgramString.exe
+C:\D\d) VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\ProgramString\ProgramString\bin\Debug\ProgramString.pdb
+C:\D\d) VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\ProgramString\ProgramString\bin\Debug\ProgramString.xml
+C:\D\d) VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\ProgramString\ProgramString\obj\Debug\ProgramString.Resources.resources
+C:\D\d) VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\ProgramString\ProgramString\obj\Debug\ProgramString.vbproj.GenerateResource.Cache
+C:\D\d) VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\ProgramString\ProgramString\obj\Debug\ProgramString.exe
+C:\D\d) VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\ProgramString\ProgramString\obj\Debug\ProgramString.xml
+C:\D\d) VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\ProgramString\ProgramString\obj\Debug\ProgramString.pdb
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\ProgramString\ProgramString\bin\Debug\ProgramString.exe.config
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\ProgramString\ProgramString\obj\Debug\ProgramString.exe
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\ProgramString\ProgramString\obj\Debug\ProgramString.xml
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\ProgramString\ProgramString\obj\Debug\ProgramString.pdb
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\ProgramString\ProgramString\bin\Debug\ProgramString.exe
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\ProgramString\ProgramString\bin\Debug\ProgramString.pdb
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\ProgramString\ProgramString\bin\Debug\ProgramString.xml
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\ProgramString\ProgramString\obj\Debug\ProgramString.Resources.resources
+C:\D\d)VB.NET\svn\learningprogramming\trunk\k12\vb.net\Unit6\code\ProgramString\ProgramString\obj\Debug\ProgramString.vbproj.GenerateResource.Cache

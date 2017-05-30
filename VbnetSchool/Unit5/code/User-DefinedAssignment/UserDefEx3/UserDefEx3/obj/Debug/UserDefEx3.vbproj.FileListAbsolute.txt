@@ -1,0 +1,9 @@
+C:\D\4. VB.NET\K12Code\Unit5\User-DefinedAssignment\UserDefEx3\UserDefEx3\bin\Debug\UserDefEx3.exe.config
+C:\D\4. VB.NET\K12Code\Unit5\User-DefinedAssignment\UserDefEx3\UserDefEx3\bin\Debug\UserDefEx3.exe
+C:\D\4. VB.NET\K12Code\Unit5\User-DefinedAssignment\UserDefEx3\UserDefEx3\bin\Debug\UserDefEx3.pdb
+C:\D\4. VB.NET\K12Code\Unit5\User-DefinedAssignment\UserDefEx3\UserDefEx3\bin\Debug\UserDefEx3.xml
+C:\D\4. VB.NET\K12Code\Unit5\User-DefinedAssignment\UserDefEx3\UserDefEx3\obj\Debug\UserDef3.Resources.resources
+C:\D\4. VB.NET\K12Code\Unit5\User-DefinedAssignment\UserDefEx3\UserDefEx3\obj\Debug\UserDefEx3.vbproj.GenerateResource.Cache
+C:\D\4. VB.NET\K12Code\Unit5\User-DefinedAssignment\UserDefEx3\UserDefEx3\obj\Debug\UserDefEx3.exe
+C:\D\4. VB.NET\K12Code\Unit5\User-DefinedAssignment\UserDefEx3\UserDefEx3\obj\Debug\UserDefEx3.xml
+C:\D\4. VB.NET\K12Code\Unit5\User-DefinedAssignment\UserDefEx3\UserDefEx3\obj\Debug\UserDefEx3.pdb
