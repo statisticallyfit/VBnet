@@ -4,7 +4,7 @@
 '   Begun: 21/1/2014
 '   Finished: 22/1/2014
 ' Course: TCH061-AVT: Programming I - VB.NET   
-' Program goal: to ask for input, both deposits and debits, and keep a running balance in the account  
+' Program goal: to ask for input, both deposits and debits, and keep a running balance in the account 
 
 Imports System.Globalization
 Imports System.Text
